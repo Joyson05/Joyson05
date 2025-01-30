@@ -1,5 +1,5 @@
 {
-    "1.5.0": "http://localhost:8000/F29H85x-1/",
-    "1.6.0": "http://localhost:8000/F29H85x/"
-    
+    "1.0.0": "https://software-dl.ti.com/C2000/docs/mcal/F29H85x/01.00.00/index.html",
+    "1.1.0": "https://software-dl.ti.com/C2000/docs/mcal/F29H85x/01.01.00/index.html",
+    "latest": "https://software-dl.ti.com/C2000/docs/mcal/F29H85x/latest/index.html"
 }
